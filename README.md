@@ -30,7 +30,6 @@
 - 🌐 Exploring the power of **Next.js** and Server-Side Rendering
 - 🏖️ Working on a comprehensive **Agentic AI** project
 - 🧠 Learning advanced **System Design** and Architecture patterns
-- 📚 Mastering the **MERN Stack** through [Programming Hero](https://web.programming-hero.com/course-details) bootcamp
 - 🔐 Deepening my knowledge of **JWT Auth** & **REST APIs**
 
 ---
