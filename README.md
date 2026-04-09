@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./premium-banner.png" alt="Ahadun Nobi Banner" height="180"  width="100%">
+  <img src="./premium-banner.png" alt="Ahadun Nobi Banner" height="180"  width="70%">
 
   <br><br>
 
