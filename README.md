@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank">
-  <img src="./banner.png" alt="Ahadun Nobi Banner" width="100%">
+  <img src="./premium-banner.svg" alt="Ahadun Nobi Banner" width="100%">
 </a>
 
   <br><br>
