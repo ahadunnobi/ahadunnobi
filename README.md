@@ -6,12 +6,12 @@
   <div><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Philosophy+Enthusiast;Next.js+Specialist;Creative+Problem+Solver" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify" height="35" /></a>
-    <a href="https://x.com/ahadunnobi" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="35" /></a>
-    <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
-    <a href="https://www.instagram.com/ahadunnobi/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="35" /></a>
-    <a href="https://web.facebook.com/ahadunnobe" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="35" /></a>
-    <a href="mailto:ahadunnobi1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
+    <a href="https://ahadunnobi.netlify.app/"><img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    <a href="https://x.com/ahadunnobi"><img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/ahadunnobi/"><img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/ahadunnobi/"><img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://web.facebook.com/ahadunnobe"><img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="mailto:ahadunnobi1@gmail.com"><img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p></div>
 </div>
 
