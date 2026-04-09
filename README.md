@@ -1,8 +1,21 @@
 <div align="center">
-  <img src="./banner.png" alt="Profile Banner" width="100%" />
-</div>
+  <img src="./premium-banner.png" alt="Ahadun Nobi Banner" width="100%" />
 
-# Hey, I'm AHAD VEN 
+  <br><br>
+
+  <h1>Ahadun Nobi </h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Specialist;Next.js+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://linkedin.com/in/ahadunnobi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/ahadunnobi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  </p>
+
+  ---
+</div>
 
 ## 🚀 Mission Control
 *   **Building:** Scalable full-stack applications with **Firebase** and the **MERN** ecosystem.
