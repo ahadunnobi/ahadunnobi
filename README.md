@@ -1,8 +1,9 @@
 <div align="center">
   <img src="./premium-banner.png" alt="Ahadun Nobi Banner" height="180" />
 
+  <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Specialist;Next.js+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+  <div><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Specialist;Next.js+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
@@ -11,7 +12,7 @@
     <a href="https://www.instagram.com/ahadunnobi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://web.facebook.com/ahadunnobe" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
     <a href="mailto:ahadunnobi1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+  </p></div>
 </div>
 
 ## 🚀 Mission Control
@@ -21,36 +22,20 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## 💻 Technologies that I know
 
-### 🌐 Frontend & UI
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,firebase" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,postman" />
+  </a>
+  <br>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### 🧰 Tools & Workflow
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
