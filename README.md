@@ -1,17 +1,19 @@
 <div align="center">
+<a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank">
   <img src="./premium-banner.svg" alt="Ahadun Nobi Banner" width="100%">
+</a>
 
   <br><br>
 
   <div><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Philosophy+Enthusiast;Next.js+Specialist;Creative+Problem+Solver" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://ahadunnobi.netlify.app/"><img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-    <a href="https://x.com/ahadunnobi"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=x&logoColor=000" /></a>
-    <a href="https://www.linkedin.com/in/ahadunnobi/"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/ahadunnobi/"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://web.facebook.com/ahadunnobe"><img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-    <a href="mailto:ahadunnobi1@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://x.com/ahadunnobi" target="_blank"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="30" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/ahadunnobi/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://web.facebook.com/ahadunnobe" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" height="30" /></a>&nbsp;&nbsp;
+    <a href="mailto:ahadunnobi1@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="30" height="30" /></a>
   </p></div>
 </div>
 
