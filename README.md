@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./premium-banner.png" alt="Ahadun Nobi Banner" width="100%" height="180">
+  <img src="./premium-banner.png" alt="Ahadun Nobi Banner" width="100%" height="210">
 
   <br><br>
 
-  <div><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Specialist;Next.js+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+  <div><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Philosophy+Interested;Next.js+Specialist;Creative+Problem+Solver" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
