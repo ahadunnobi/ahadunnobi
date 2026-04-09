@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank">
-  <img src="./premium-banner.svg" alt="Ahadun Nobi Banner" width="100%">
+  <img src="./banner.png" alt="Ahadun Nobi Banner" width="100%">
 </a>
 
   <br><br>
@@ -10,9 +10,10 @@
   <p align="center">
     <a href="https://ahadunnobi.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" height="30" /></a>&nbsp;&nbsp;
     <a href="https://x.com/ahadunnobi" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="30" height="30" /></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank" rel="noopener noreferrer"><img src="./linkedin.svg" width="30" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank" rel="noopener noreferrer"><img src="./InBug-White.png" width="30" height="30" /></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/ahadunnobi/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" /></a>&nbsp;&nbsp;
     <a href="https://web.facebook.com/ahadunnobe" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" height="30" /></a>&nbsp;&nbsp;
+    <a href="mailto:ahadunnobi1@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="30" height="30" /></a>
   </p></div>
 </div>
 
