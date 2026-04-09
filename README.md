@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="./premium-banner.png" alt="Ahadun Nobi Banner" width="100%" />
+  <img src="./premium-banner.png" alt="Ahadun Nobi Banner" height="250" />
 
-  <br><br>
+  <br>
 
   <h1>Ahadun Nobi </h1>
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Specialist;Next.js+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/ahadunnobi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/ahadunnobi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+    <a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+    <a href="https://x.com/ahadunnobi" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/ahadunnobi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://web.facebook.com/ahadunnobe" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="mailto:ahadunnobi1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
-
-  ---
 </div>
 
 ## 🚀 Mission Control
@@ -83,8 +83,12 @@ On a mission to become a **Full-Stack Developer** through the MERN bootcamp — 
 ## 🌐 Find Me Around the Web
 
 <p align="left">
-  <a href="https://linkedin.com/in/ahadunnobi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ahadunnobi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://x.com/ahadunnobi" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ahadunnobi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://web.facebook.com/ahadunnobe" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:ahadunnobi1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 > **Current Vibe:** "Everything is good. Allah Khair." ☕
