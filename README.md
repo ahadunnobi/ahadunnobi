@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="./premium-banner.png" alt="Ahadun Nobi Banner" height="250" />
+  <img src="./premium-banner.png" alt="Ahadun Nobi Banner" height="180" />
 
-  <br>
-
-  <h1>Ahadun Nobi </h1>
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Specialist;Next.js+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
 
