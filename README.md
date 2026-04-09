@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./premium-banner.png" alt="Ahadun Nobi Banner" height="180"  width="70%">
+  <img src="./premium-banner.png" alt="Ahadun Nobi Banner" width="100%">
 
   <br><br>
 
@@ -27,7 +27,7 @@
 ## ⚡ What I'm Up To
 
 - 🌐 Exploring the power of **Next.js** and Server-Side Rendering
-- 🏖️ Working on a comprehensive **Tourism Website** project
+- 🏖️ Working on a comprehensive **Agentic AI** project
 - 🧠 Learning advanced **System Design** and Architecture patterns
 - 📚 Mastering the **MERN Stack** through [Programming Hero](https://web.programming-hero.com/course-details) bootcamp
 - 🔐 Deepening my knowledge of **JWT Auth** & **REST APIs**
@@ -55,7 +55,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Performance Track
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahadunnobi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" height="180" />
