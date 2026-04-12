@@ -3,8 +3,6 @@
   <img src="./premium-banner.svg" alt="Ahadun Nobi Banner" width="100%">
 </a>
 
-  <br><br>
-
   <div><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Philosophy+Enthusiast;Next.js+Specialist;Creative+Problem+Solver" alt="Typing SVG" />
 
   <p align="center">
@@ -38,13 +36,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,react" />
     <br>
     <img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,redux,firebase" />
     <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,py,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,docker" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman,npm" />
   </a>
 </p>
 
