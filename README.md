@@ -27,18 +27,6 @@
 </div>
 
 ---
----
-
-<div align="center">
-
-<!-- 💠 IDENTITY MATRIX 💠 -->
-<img width="100%" src="./identity-matrix.svg" />
-
-</div>
-
----
-
-
 
 ## 🚀 Mission Control
 *   **Building:** Scalable full-stack applications with **Firebase** and the **MERN** ecosystem.
@@ -111,16 +99,9 @@ shaped by every choice, every bug,
 every late-night commit."
 ```
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,react" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,redux,firebase" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,docker" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman,npm" />
-  </a>
+<p>
+  <i>If you're reading this — you've entered my codebase.</i><br/>
+  <i>That's either fate, or a very good search algorithm.</i>
 </p>
 
 <b>Either way: let's build something that matters.</b>
@@ -129,22 +110,6 @@ every late-night commit."
   Crafted with  ☕ caffeine  ×  🔥 passion  ×  🌙 late nights<br/>
   ─────────────────────────────────────────────────────────────────
 </p>
-
----
-
-## 📊 Performance Track
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadunnobi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-
-> **Current Vibe:** "Everything is good. Allah Khair." ☕
-
----
-
-<p align="center">
-  <i>"Majnoon" enough to believe I can change the world with a <code>&lt;div&gt;</code>. ☕</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ahadunnobi&label=Profile%20Views&color=38B2AC&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+<img width="100%" height="" src="https://capsule-render.vercel.app/api?type=waving&color=0:020008,50:0a0a2e,100:020008&height=120&section=footer&text=SIGNAL%20RECEIVED%20—%20INITIATING%20COLLABORATION&fontSize=14&fontColor=5eea0&fontAlignY=67&animation=fadeIn" />
+<div>
