@@ -8,13 +8,11 @@
 
 </div>
 
----
-
 <div align="center">
   <h2>⚔️ IDENTITY MATRIX ⚔️</h2>
 </div>
 
-```typescript
+
 class AhadunNobi extends FullStackDeveloper {
   name     = "Ahadun Nobi";
   role     = "Full-Stack MERN Developer";
@@ -34,12 +32,11 @@ class AhadunNobi extends FullStackDeveloper {
     ];
   }
 }
-```
 
----
+
 
 <div align="center">
-  <h2>🔗 CONNECT ME 🔗</h2>
+  <h3>🔗 CONNECT ME 🔗</h3>
   <br/>
   <!-- 📡 SYSTEM UPLINKS 📡 -->
   <a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="./portfolio.svg" width="40" height="40" /></a>&nbsp;&nbsp;
@@ -48,8 +45,6 @@ class AhadunNobi extends FullStackDeveloper {
   <a href="https://www.instagram.com/ahadunnobi/" target="_blank"><img src="./instagram.svg" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://web.facebook.com/ahadunnobe" target="_blank"><img src="./facebook.svg" width="40" height="40" /></a>
 </div>
-
----
 
 <div align="center">
   <h2>🛠️ THE TECH MATRIX 🛠️ </h2>
@@ -91,8 +86,6 @@ class AhadunNobi extends FullStackDeveloper {
 
 </div>
 
----
-
 <div align="center">
   <h2>📊 NEURAL ACTIVITY 📊</h2>
 </div>
@@ -100,8 +93,6 @@ class AhadunNobi extends FullStackDeveloper {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadunnobi&theme=tokyonight&hide_border=true&background=0D1117&ring=00f5d4&fire=00f5d4&sideLabels=00f5d4" />
 </div>
-
----
 
 <div align="center">
   <h2>☯ PHILOSOPHY ☯</h2>
