@@ -1,0 +1,102 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Deep Space Gradient -->
+    <linearGradient id="space_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020008" />
+      <stop offset="50%" stop-color="#0a0a2e" />
+      <stop offset="100%" stop-color="#020008" />
+    </linearGradient>
+
+    <!-- Cyan Neon Glow -->
+    <filter id="cyan_glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Purple Neon Glow -->
+    <filter id="purple_glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Advanced Hex Grid -->
+    <pattern id="hex_pattern" width="40" height="69.28" patternUnits="userSpaceOnUse" patternTransform="scale(1.2)">
+      <path d="M20 0L40 11.54V34.64L20 46.18L0 34.64V11.54L20 0Z" fill="none" stroke="#00f5d4" stroke-opacity="0.08" stroke-width="0.5"/>
+    </pattern>
+
+    <!-- Radial Overlay -->
+    <radialGradient id="radial_mask" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="1200" height="300" fill="url(#space_grad)" />
+  <rect width="1200" height="300" fill="url(#hex_pattern)" />
+  <rect width="1200" height="300" fill="url(#radial_mask)" />
+
+  <!-- Animated HUD Elements -->
+  <g stroke="#00f5d4" stroke-width="1.5" stroke-opacity="0.4" filter="url(#cyan_glow)">
+    <!-- Corner HUD Brackets -->
+    <path d="M40 60 L40 40 L60 40" fill="none" />
+    <path d="M1140 60 L1140 40 L1120 40" fill="none" />
+    <path d="M40 240 L40 260 L60 260" fill="none" />
+    <path d="M1140 240 L1140 260 L1120 260" fill="none" />
+    
+    <!-- Moving Data Lines -->
+    <path d="M100 150 L300 150 L330 180 L500 180" opacity="0.3">
+      <animate attributeName="stroke-dasharray" from="0, 1000" to="1000, 0" dur="5s" repeatCount="indefinite" />
+    </path>
+    <path d="M1100 150 L900 150 L870 120 L700 120" opacity="0.3">
+      <animate attributeName="stroke-dasharray" from="0, 1000" to="1000, 0" dur="5s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <!-- Corner Status Text -->
+  <g font-family="monospace" font-size="12" fill="#00f5d4" fill-opacity="0.6">
+    <text x="50" y="250">&gt; INITIALIZING_SYSTEM...</text>
+    <text x="50" y="265">&gt; MERN_STACK_LOADED [OK]</text>
+    <text x="1150" y="50" text-anchor="end">&gt; UPTIME_99.9%</text>
+  </g>
+
+  <!-- Central Content -->
+  <g text-anchor="middle" font-family="'Segoe UI', Roboto, 'Fira Code', monospace">
+    <!-- Main Glow Title -->
+    <text x="600" y="145" fill="#ffffff" font-size="72" font-weight="900" style="letter-spacing: 12px; text-transform: uppercase;" filter="url(#cyan_glow)">
+      AHADUN NOBI
+    </text>
+    
+    <!-- Professional Subtitle -->
+    <text x="600" y="195" fill="#00f5d4" font-size="24" font-weight="600" style="letter-spacing: 8px;">
+      MERN DEVELOPER
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite" />
+    </text>
+
+
+    
+    <!-- Bottom Centered Status -->
+    <g font-size="10" fill="#00f5d4" fill-opacity="0.4" font-family="monospace">
+      <text x="600" y="240">SYSTEM_STATUS: OPTIMAL | CORE_LOAD: 27%</text>
+      <text x="600" y="255">DESTINY_COMPILE_VERSION: 2.0.24-STABLE</text>
+    </g>
+  </g>
+
+  <!-- Pulsing Central Node -->
+  <circle cx="600" cy="140" r="120" stroke="#00f5d4" stroke-width="0.5" stroke-opacity="0.1" fill="none">
+    <animate attributeName="r" values="120;130;120" dur="3s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Data Flow Particles -->
+  <circle r="2" fill="#00f5d4">
+    <animateMotion path="M100 150 L300 150 L330 180 L500 180" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle r="2" fill="#7c3aed" filter="url(#purple_glow)">
+    <animateMotion path="M1100 150 L900 150 L870 120 L700 120" dur="5s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Scanning Line -->
+  <rect width="1200" height="2" fill="#00f5d4" fill-opacity="0.1">
+    <animate attributeName="y" from="0" to="300" dur="8s" repeatCount="indefinite" />
+  </rect>
+</svg>
