@@ -1,16 +1,32 @@
 <div align="center">
 
-  <div><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Philosophy+Enthusiast;Next.js+Specialist;Creative+Problem+Solver" alt="Typing SVG" />
+<!-- 🌌 FUTURISTIC HEADER 🌌 -->
+<img width="100%" src="./futuristic-header.svg" />
 
-  <p align="center" display="flex">
-    <a href="https://ahadunnobi.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" height="30" /></a>&nbsp;&nbsp;
-    <a href="https://x.com/ahadunnobi" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="30" height="30" /></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank" rel="noopener noreferrer"><img src="./InBug-White.png" width="30" height="30" /></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/ahadunnobi/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" /></a>&nbsp;&nbsp;
-    <a href="https://web.facebook.com/ahadunnobe" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" height="30" /></a>&nbsp;&nbsp;
-  </p></div>
+<!-- 💬 PULSING TYPING LOG 💬 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5D4&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Next.js+Specialist;Problem+Solver;Philosophy+Enthusiast" alt="Typing" />
+
+
+<!-- 📡 SYSTEM UPLINKS 📡 -->
+<a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="./portfolio.svg" width="35" height="35" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank"><img src="./linkedin.svg" width="35" height="35" /></a>&nbsp;
+<a href="https://x.com/ahadunnobi" target="_blank"><img src="./x.svg" width="35" height="35" /></a>&nbsp;
+<a href="https://www.instagram.com/ahadunnobi/" target="_blank"><img src="./instagram.svg" width="35" height="35" /></a>&nbsp;
+<a href="https://web.facebook.com/ahadunnobe" target="_blank"><img src="./facebook.svg" width="35" height="35" /></a>
+
+
 </div>
 
+---
+
+<div align="center">
+
+<!-- 💠 IDENTITY MATRIX 💠 -->
+<img width="100%" src="./identity-matrix.svg" />
+
+</div>
+
+---
 ---
 
 <div align="center">
