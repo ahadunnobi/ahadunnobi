@@ -47,7 +47,7 @@ const developerProfile = {
 </div>
 
 <div align="center">
-  <h2>🛠️ THE TECH MATRIX 🛠️ </h2>
+  <h3>🛠️ THE TECH MATRIX 🛠️ </h3>
 </div>
 
 <div align="center">
@@ -86,7 +86,7 @@ const developerProfile = {
 </div>
 
 <div align="center">
-  <h2>📊 NEURAL ACTIVITY 📊</h2>
+  <h3>📊 NEURAL ACTIVITY 📊</h3>
 </div>
 
 <div align="center">
@@ -94,7 +94,7 @@ const developerProfile = {
 </div>
 
 <div align="center">
-  <h2>☯ PHILOSOPHY ☯</h2>
+  <h3>☯ PHILOSOPHY ☯</h3>
 
 ```yaml
 "Maybe destiny isn't written in the stars.
