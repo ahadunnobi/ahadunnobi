@@ -11,13 +11,16 @@
 <div align="center">
   <h3>⚔️ IDENTITY MATRIX ⚔️</h3>
 </div>
+
 ---
+
 ```typescript
 const developerProfile = {
   aboutMe: {
     name: "Ahadun Nobi",
     role: "Full-Stack MERN Developer",
-    location: "Bangladesh 🇧🇩"
+    location: "Bangladesh 🇧🇩",
+    stack: ["MongoDB", "Express", "React", "Node.js"]
   },
   missionControl: {
     objective: "Building scalable full-stack applications with Firebase & the MERN ecosystem",
@@ -32,12 +35,13 @@ const developerProfile = {
 };
 ```
 
+---
+
 
 
 <div align="center">
   <h3>🔗 CONNECT ME 🔗</h3>
-  ---
-  <br/>
+
   <!-- 📡 SYSTEM UPLINKS 📡 -->
   <a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="./portfolio.svg" width="40" height="40" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank"><img src="./linkedin.svg" width="40" height="40" /></a>&nbsp;&nbsp;
@@ -85,9 +89,11 @@ const developerProfile = {
 
 </div>
 
+
 <div align="center">
-  <h3>📊 NEURAL ACTIVITY 📊</h3>
+  <img src="https://vercel.app" alt="GitHub Stats" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadunnobi&theme=tokyonight&hide_border=true&background=0D1117&ring=00f5d4&fire=00f5d4&sideLabels=00f5d4" />
