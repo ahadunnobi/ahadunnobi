@@ -9,34 +9,34 @@
 </div>
 
 <div align="center">
-  <h2>⚔️ IDENTITY MATRIX ⚔️</h2>
+  <h3>⚔️ IDENTITY MATRIX ⚔️</h3>
 </div>
-
-
-class AhadunNobi extends FullStackDeveloper {
-  name     = "Ahadun Nobi";
-  role     = "Full-Stack MERN Developer";
-  location = "Bangladesh 🇧🇩";
-
-  constructor() {
-    super();
-    this.mission = "Building scalable full-stack applications with the MERN ecosystem";
-  }
-
-  getCurrentFocus(): string[] {
-    return [
-      "Exploring the power of Next.js and Server-Side Rendering",
-      "Working on a comprehensive Agentic AI project",
-      "Learning advanced System Design and Architecture patterns",
-      "Deepening my knowledge of JWT Auth & REST APIs"
-    ];
-  }
-}
+---
+```typescript
+const developerProfile = {
+  aboutMe: {
+    name: "Ahadun Nobi",
+    role: "Full-Stack MERN Developer",
+    location: "Bangladesh 🇧🇩"
+  },
+  missionControl: {
+    objective: "Building scalable full-stack applications with Firebase & the MERN ecosystem",
+    philosophy: "The 'System Design' of life — recursive loops of Destiny vs. Free Will"
+  },
+  whatImUpTo: [
+    "Exploring the power of Next.js and Server-Side Rendering",
+    "Working on a comprehensive Agentic AI project",
+    "Learning advanced System Design and Architecture patterns",
+    "Deepening my knowledge of JWT Auth & REST APIs"
+  ]
+};
+```
 
 
 
 <div align="center">
   <h3>🔗 CONNECT ME 🔗</h3>
+  ---
   <br/>
   <!-- 📡 SYSTEM UPLINKS 📡 -->
   <a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="./portfolio.svg" width="40" height="40" /></a>&nbsp;&nbsp;
@@ -81,8 +81,7 @@ class AhadunNobi extends FullStackDeveloper {
 
 ![JWT](https://img.shields.io/badge/JWT-020014?style=for-the-badge&logo=jsonwebtokens&logoColor=00f5d4)
 ![REST](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN_STACK-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![NEXT](https://img.shields.io/badge/NEXT.JS-020014?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+
 
 </div>
 
@@ -110,6 +109,6 @@ every late-night commit."
   ─────────────────────────────────────────────────────────────────
 </p>
 
-<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00f5d4&height=120&section=footer&text=SIGNAL%20RECEIVED%20—%20INITIATING%20COLLABORATION&fontSize=16&fontColor=ffffff&fontAlignY=67&animation=fadeIn" />
+<img width="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00f5d4&height=120&section=footer&text=SIGNAL%20RECEIVED%20—%20INITIATING%20COLLABORATION&fontSize=16&fontColor=ffffff&fontAlignY=67&animation=fadeIn" />
 
 </div>
