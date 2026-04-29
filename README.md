@@ -91,7 +91,7 @@ const developerProfile = {
 
 
 <div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
+  <h3>⏔⏔⏔ ꒰ GitHub Stats ꒱ ⏔⏔⏔</h3> 
 </div>
 
 
