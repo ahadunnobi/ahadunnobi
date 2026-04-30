@@ -48,7 +48,7 @@ const developerProfile = {
   <a href="https://x.com/ahadunnobi" target="_blank"><img src="./x.svg" width="25" height="25" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/ahadunnobi/" target="_blank"><img src="./instagram.svg" width="25" height="25" /></a>&nbsp;&nbsp;
   <a href="https://web.facebook.com/ahadunnobe" target="_blank"><img src="./facebook.svg" width="25" height="25" /></a>&nbsp;&nbsp;
-   <a href="mailto:info.ahadunnobi@gmail.com" target="_blank">
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info.ahadunnobi@gmail.com" target="_blank">
   <img src="./gmail.svg" width="25" height="25" alt="Gmail" />
 </a>
 </div>
