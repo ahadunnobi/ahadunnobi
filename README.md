@@ -43,13 +43,13 @@ const developerProfile = {
   <h3>🔗 CONNECT ME 🔗</h3>
 
   <!-- 📡 SYSTEM UPLINKS 📡 -->
-  <a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="./portfolio.svg" width="30" height="30" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank"><img src="./linkedin.svg" width="30" height="30" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/ahadunnobi" target="_blank"><img src="./x.svg" width="30" height="30" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ahadunnobi/" target="_blank"><img src="./instagram.svg" width="30" height="30" /></a>&nbsp;&nbsp;
-  <a href="https://web.facebook.com/ahadunnobe" target="_blank"><img src="./facebook.svg" width="30" height="30" /></a>
-   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info.ahadunnobi@gmail.com" target="_blank">
-  <img src="./gmail.svg" width="30" height="30" alt="Gmail" />
+  <a href="https://ahadunnobi.netlify.app/" target="_blank"><img src="./portfolio.svg" width="25" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahadunnobi/" target="_blank"><img src="./linkedin.svg" width="25" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/ahadunnobi" target="_blank"><img src="./x.svg" width="25" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ahadunnobi/" target="_blank"><img src="./instagram.svg" width="25" height="25" /></a>&nbsp;&nbsp;
+  <a href="https://web.facebook.com/ahadunnobe" target="_blank"><img src="./facebook.svg" width="25" height="25" /></a>&nbsp;&nbsp;
+   <a href="mailto:info.ahadunnobi@gmail.com" target="_blank">
+  <img src="./gmail.svg" width="25" height="25" alt="Gmail" />
 </a>
 </div>
 
